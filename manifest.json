@@ -1,0 +1,8 @@
+{
+"name": "180 Online Darts",
+"short_name": "180 Darts",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#0b6623",
+"theme_color": "#0b6623"
+}
